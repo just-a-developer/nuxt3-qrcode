@@ -1,0 +1,29 @@
+{
+  "name": "nuxt3-qrcode",
+  "version": "1.0.0",
+  "description": "A vue3 component, support nuxt3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt dev"
+  },
+  "keywords": [
+    "qrcode",
+    "vue3",
+    "nuxt3",
+    "ssr"
+  ],
+  "author": "Mr zhuch",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "nuxt": "^3.12.4",
+    "vue": "^3.4.35",
+    "vue-router": "^4.4.0"
+  }
+}
